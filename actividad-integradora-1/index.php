@@ -3,8 +3,9 @@
 // Constante con "define"
 define("ACTIVIDAD", "Actividad Integradora Obligatoria Módulo 1");
 
-
+// Constante con "const"
 const TEMAS = array('Delimitadores', 'Sintaxis', 'Variables', 'Constantes', 'Operadores');
+
 $alumno = "John Morgan";
 $profesion = ", desarrollador web Jr.";
 $alumno .= $profesion;
